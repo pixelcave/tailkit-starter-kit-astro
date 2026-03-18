@@ -9,7 +9,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.18.0"
+    "astro": "^6.0.5"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.11",
